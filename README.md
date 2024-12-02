@@ -13,4 +13,5 @@ My support discord server: https://discord.gg/AAJxThhbBf
 
 ## Useful stuff
 Quaternion math library: https://github.com/rawify/Quaternion.js  
+
 ![calcs](https://github.com/user-attachments/assets/b7c0727f-1d48-4fae-af6d-f6b4a328611f)  
